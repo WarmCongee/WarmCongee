@@ -1,4 +1,3 @@
-少年何妨梦摘星，敢挽桑弓射玉衡。
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarmCongee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
